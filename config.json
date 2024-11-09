@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "lepiky@clip.lat",
-    "password": "zermanto0877",
+    "email": "wenepo4596@aleitar.com",
+    "password": "adminzer0877",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -36,10 +36,7 @@
     "hideNotiMessage": true
   },
   "adminBot": [
-    "100078690213463",
-    "100082866835315",
-    "100075826505185",
-    "100072207731954"
+    "100078690213463"
   ],
   "whiteListMode": {
     "enable": false,
@@ -48,7 +45,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "zermanto development #2",
+  "nickNameBot": "zermanto development #3",
   "prefix": "/",
   "database": {
     "type": "sqlite",
